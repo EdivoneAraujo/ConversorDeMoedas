@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5e330fd-3b99-4f95-a9dd-a5d686ca5077" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/api/ApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/conversor/ConversorDeMoedas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/projeto/modelo/TaxasDeCambio.java" afterDir="false" />
-    </list>
+    <list default="true" id="c5e330fd-3b99-4f95-a9dd-a5d686ca5077" name="Changes" comment="Primeiro passo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +74,38 @@
       <option name="presentableId" value="Default" />
       <updated>1728581401499</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro passo">
+      <option name="closed" value="true" />
+      <created>1728585866556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728585866556</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro passo">
+      <option name="closed" value="true" />
+      <created>1728585908343</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728585908343</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro passo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro passo" />
   </component>
 </project>
